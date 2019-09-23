@@ -12,7 +12,7 @@ Quality estimation (QE) is one of the missing pieces of machine translation: its
 OpenKiwi, is a Pytorch-based open-source framework that implements the best QE systems from WMT 2015-18 shared tasks, making it easy to experiment with these models under the same framework. 
 
 Using OpenKiwi and a stacked combination of these models we have achieved state-of-the-art results on word-level QE on the WMT 2018 English-German dataset.
-Furthermore, we built on top of this framework to win the WMT 2019 shared task on quality estimation. You can check our approach [here](https://arxiv.org/pdf/1907.10352.pdf)
+Furthermore, we built on top of this framework to win the WMT 2019 shared task on quality estimation. You can check our approach [here](https://www.aclweb.org/anthology/P19-3020)
 
 ## Overview of the Tutorial
 
